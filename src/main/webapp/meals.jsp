@@ -8,8 +8,11 @@
 <body>
 <h3><a href="index.html">Home</a></h3>
 <hr>
+<form>
+
+</form>
 <h2>Meals</h2>
-<table>
+<table border="1">
     <tr>
         <th>id</th>
         <th>Время</th>
